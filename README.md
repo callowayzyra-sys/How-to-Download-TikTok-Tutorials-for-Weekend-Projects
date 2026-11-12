@@ -30,7 +30,7 @@ Consider saving more than one explanation when a project involves unfamiliar tec
 
 Once you find a tutorial worth keeping, check whether the creator allows the video to be saved. TikTok may provide a built in saving option for supported posts. If that option is unavailable, some users explore third party websites that process accessible video links.
 
-For example, [SANptik](https://snaptikk.io/) is a name you may come across when looking at online TikTok saving options. Before using any service, review its instructions and check whether it works with the type of link you want to save.
+For example, [SNAptik](https://snaptikk.io/) is a name you may come across when looking at online TikTok saving options. Before using any service, review its instructions and check whether it works with the type of link you want to save.
 
 The usual process involves copying the video link from TikTok, opening the selected website, and pasting the address into its input field. Follow the instructions displayed on the page and wait for the available download options.
 
